@@ -1,0 +1,12 @@
+1. Office 365
+2. Pycharm
+3. Intellij Idea
+4. Traslucent Task-bar Customise
+5. Rainmeter 
+6. VS Code with (Developer Extensions)
+7. Chrome
+8. Firefox
+9. Systeam Update
+10.react JS
+11.Node Js
+
