@@ -1,4 +1,4 @@
-1. Office 365
+1. Office 365 (Developer Email login)
 2. Pycharm
 3. Intellij Idea
 4. Traslucent Task-bar Customise
@@ -9,4 +9,5 @@
 9. Systeam Update
 10.react JS
 11.Node Js
+12.System Lauguage Settings (Marathi)
 
